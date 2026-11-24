@@ -1,0 +1,863 @@
+Pane
+Windows
+Stop Sno
+Let It SL
+Clear SnH
+SettingsH
+Quit 
+Snowing
+ min idlH
+HcB
+IcF
+HcC
+HcS
+IcV
+Top hat
+Star
+Broom
+Stick
+Bucket
+Pinecone
+Rock
+Present
+Santa ha]
+Bauble
+EarmuffsH
+Bow tie
+Beanie
+Angel
+Bow
+Scarf
+SnowflakH
+Pipe
+Mitten
+Candy ca]
+Carrot
+Coal
+BellH
+FhL
+Hcx
+IcG
+SnowballH
+Wreath
+d tree
+DecorateH
+ChristmaH
+ReindeerH
+Jingle b
+ead man
+Gingerbr
+Lantern
+Mistleto
+Candy ca
+Sled
+StockingH
+Holly
+GhI
+VhH
+WhL
+Bold
+ChL
+XD$ 
+RfH
+took dowH
+ fB
+T$ fA
+flicker H
+Lights
+Snowman
+Reindeer
+Jingle b]
+Candy caH
+FxI
+F fA
+ at H
+ on H
+ in windH
+ows 
+, restinH
+ up in tH
+he snow
+FpA
+ on a 
+EpA
+UxH
+picked uH
+ by tackH
+ at 
+ fA
+ sleep!
+One more
+ more slH
+tack 
+ pinned H
+at 
+ in 
+removed H
+CxH
+GxI
+GxH
+Classic
+Big RetrH
+Warm WhiH
+Icy BlueH
+MiniH
+Candy CaH
+Icicle
+around 
+a windowH
+tacked uH
+p in 
+ places
+on top oH
+on the d
+on 
+ snowbalH
+ snowbalL
+on the gL
+EhH
+EiH
+G DoneH
+Cancel
+Mco
+Mcg
+Q IcG
+IcW
+IcN
+ and 
+Nothing
+C id
+IcE
+ChH
+not usedI
+K HcB
+O HcB
+C IcG
+Preview
+E fA
+MhI
+ExH
+XF 
+MxH
+PhL
+e's own
+The styl]
+Cool whiH
+ white
+Blue and]
+Purple
+Red and ]
+Blue
+Red
+Any colo]
+Green
+Pink
+GoldH
+ fE
+ShL
+VxI
+HpH
+EhA
+XC 
+D" fB
+Q HcC
+MpI
+Name
+SnowH
+BarIcon
+GhH
+FpH
+Snowmen
+Screen S]
+Piling U]
+s Tree
+My Decor]
+Lcx
+HcX
+HcCP
+PhH
+FhH
+CpH
+UhL
+Mpf
+QhH
+ChA
+CpA
+ SettingH
+SnowSettL
+Snow
+LcqPH
+HcAPH
+LcpPM
+Your desH
+HcYPL
+Color
+Snowfall
+Wallpape
+Screen S
+Piling U
+Christma
+Decorati
+My DecorH
+HcX L
+Lcp
+Stop SnoH
+Let It SH
+Q Mct$(H
+LchD
+General
+Open at H
+Lch
+AhL
+XhL
+LchDI
+BhH
+StartingH
+Not at aH
+DarkH
+SnowfallH
+As usualH
+BlizzardH
+How muchH
+ falls
+Where itH
+Flakes
+Wind
+IcupL
+Amount
+FlurriesH
+Falling H
+DriftingH
+FastH
+SmallestH
+ flakes
+Specks
+Big
+Largest H
+Small
+HugeH
+OpA
+StrengthH
+Still
+Gusty
+Blowing
+BackgrouH
+nd snow
+A few flH
+Steady
+Shaking H
+it off
+How it bH
+Ice and H
+Slowly
+Quickly
+Depth
+A dustinH
+DeepH
+Widgets
+Icicles
+DrippingH
+ water
+Takes
+A hard sH
+A wiggleH
+String tH
+hem up
+Look
+LchPM
+Twinkle
+ of
+In frontH
+Show Me
+Take DowH
+Done
+ChangingH
+WhH
+ window
+Around a
+String LH
+SizeH
+How manyH
+Sparse
+Packed
+Bulbs
+IcD
+AlternatM
+Chase
+WaveI
+Slow fadM
+Blink
+Speed
+SlowH
+EpH
+Mini
+Big Retr
+Fairy
+Colors
+Any coloH
+Bulb colH
+Mcn H
+Lck
+Hc@ M
+LcpDM
+Change
+ur own
+Build yoH
+LcxPH
+How it wH
+HatsH
+Put One H
+The treeH
+OrnamentH
+Set themH
+ up
+Hang oneH
+HcXPM
+ShH
+UhH
+Hc@ H
+Save thiH
+s look
+Rename
+Put up 
+Lch H
+IcGPH
+HeH
+Saved loH
+HcpPH
+Bring BaH
+HcsPL
+Up now
+Mcn
+Put AwayH
+Put Up
+Delete
+HcxPL
+Hcp
+Hc@ I
+Mcm
+SaveH
+t IcD$
+Lci
+Lch L
+Lch I
+QhL
+Snowy scH
+Bool
+Lcb
+Hc@ L
+Mcv L
+Lcj
+< Mco
+Mcf
+Mce
+AhH
+KpE
+OhH
+OpE
+ZfF
+SfB
+IcF H
+(IcG A
+IcG I
+IcG J
+Hcx L
+Number
+A fA
+NhfA
+Cpf
+CpL
+N fA
+FxH
+SxH
+EpI
+KpH
+V I;U8uXI
+D$ fA
+Bhf
+AxH
+G fA
+tx F
+Window SH1
+Window SE1
+DockH
+Fatal error
+Incorrect actor executor assumption; Expected same executor as 
+Put Away Decorations
+Keep Snow Behind Windows & Widgets
+Bring Back Decorations
+Waiting for winter
+Snow starts after 
+Waiting: an app is keeping the display awake
+Automatic snow is off
+Snowing in the background
+Snowing in the background only
+Snow on the ground
+Grab a window and shake it to knock the snow off
+Snowing while you're away
+Countdown calendar
+advent surprise 
+lights tacked at 
+Click a window to string the lights all the way around it. Esc cancels.
+Click a window to string the lights along its top. Esc cancels.
+Click where the 
+ goes. Esc cancels.
+Click a window, or the desktop, to hang the wreath. Esc cancels.
+Click a window's top edge, or the bottom of the screen, to stand the 
+ there. Esc cancels.
+snowball set down on 
+stacked a snowball, now 
+Right-click to stop
+Click to put on a 
+, as many as you like, or drag to lay a row. Right-click, press Esc or click Done to stop.
+along the top of 
+at the bottom of the screen
+countdown calendar
+countdown calendars
+string of lights
+strings of lights
+Countdown Calendar
+Christmas Lights
+Christmas desktop pictures to go with the snow.
+Put everything away and bring it back, or save a look.
+A door to open every day, with a surprise behind it.
+Presents, lanterns, reindeer, stockings and more.
+Put up a tree and hang ornaments wherever you like.
+Build a snowman, as tall as you like, and dress it up.
+String lights along windows, around them, or anywhere.
+Snow that starts on its own while you're away.
+How it builds up, where it settles, and shaking it off.
+How much falls, where it falls, the flakes and the wind.
+Big soft flakes up close
+Snowflake crystals
+Snow piles up on things
+Turn this off and the snow just falls, settling on nothing.
+Drag a window back and forth. Moving it slowly keeps the snow on.
+Shake windows to knock snow off
+Where it settles
+Slabs break off the edges
+The bottom of the screen
+The Mac's own screen saver
+The screen saver is off while it's only snowing in the background (see Snowfall).
+Lock Screen Settings
+While you're away
+When you come back
+The snow that's left melts
+15 minutes later
+Darken the screen
+Pile up over the menu bar
+Start snowing after you've been away for
+Wait while video is playing
+Only in winter (December to February)
+Lights you've put up
+Changes show on those lights as you make them.
+Show in front of windows
+Show in front of widgets
+How they light up
+Then click a window to string them on it. They follow it around and never get in the way of dragging it.
+Tacked up wherever you click
+Along a window's top
+Drag a snowball onto the desktop or a window's top, then more on top, as many as you like.
+Drag hats, sticks, coal and carrots anywhere on it. Each snaps to the right size.
+Or put up a ready-made snowman
+Scarves and mittens
+Drag ornaments onto the tree, anywhere, as many as you like. A star or angel near the top crowns it.
+Select the tree itself to resize it; its ornaments grow with it.
+Baubles and bows
+Drag one out. Presents, lanterns and reindeer stand in the snow; stockings, holly and wreaths hang.
+One more door each day from the day you hang it, and in December, every door up to the date.
+Click a door that isn't ready and it tells you how many sleeps to go.
+Candy canes, bells, sleds and reindeer come out. Christmas Eve and Christmas Day bring something special.
+Right-click the calendar to take it down. Its opened doors are remembered.
+ sleeps till Christmas
+One more sleep till Christmas
+Merry Christmas!
+What's up now can come back later with Bring Back.
+Put Away What's Up and Put It Up
+Add It to What's Up
+Everything that's up now, to put up again whenever you like.
+My Christmas look
+Everything that's up
+Point at one and it blinks, so you can tell which is which.
+Take Everything Down
+Save a look to put it up again any time: one for Christmas Eve, one for the office.
+Nothing's up right now.
+Everything's put away.
+Save This Look
+Look out of a window
+Snow falls only outside the window, and drifts up against the glass.
+To come back here, open the app again from your Applications folder.
+Show the snowflake in the menu bar
+Snow falls only behind everything, like a snowy wallpaper, and never piles up. The screen saver is off.
+A gentle snowfall behind your windows all day, as well as the snow above. It never piles up.
+A gentle snowfall on the desktop, behind every window, that never piles up.
+Snow behind your windows
+All day, as well
+Only behind them
+In front of everything
+Behind the window you're using
+Behind windows and widgets
+Click a piece to stamp lots: click for each one, or drag for a row. Right-click to stop.
+Click something you've put up to select it, then drag to move it.
+Drag its green arrow, or scroll over it, to resize.
+Drag the round handle to turn it.
+Right-click anything to take it away.
+Drag it out, or click it and then click wherever you want them
+Tree in the Clearing
+Sleigh by Moonlight
+Through the Window
+Snow: couldn't set the desktop picture: 
+Notification Center
+Platform2 == PLATFORM_MACOS && "unexpected platform"
+ProductVersion
+SwiftUI
+CoreGraphics
+Key
+AppKit
+Foundation
+AppDelegate
+SnowmanPiece
+DecorationPart
+CompositeLayout
+ItemKind
+Prop
+Advent
+Surprise
+Piece
+PropKind
+DecorationArt
+PieceColors
+Art
+z @ffffff
+Decoration
+Decorations
+PieceCarrier
+PieceStamper
+PlacementPanel
+PlacementView
+HintPanel
+SavedLook
+Grab
+DecorationKind
+DesktopIcons
+Results
+IconShape
+DesktopIcon
+IcicleRow
+Canvas
+IcicleRenderer
+LightString
+LightLook
+Tack
+LightsHang
+Bulb
+LightArt
+Grip
+Sprite
+LightColor
+LightFlash
+LightStyle
+Pile
+Chunk
+SnowActions
+DecorationInfo
+SnowSettings
+SettingsPane
+PaneIcon
+SnowmanGlyph
+PaneBanner
+BannerPainter
+BannerScene
+SkySnow
+SettingsWindow
+LightsEditor
+LooksStore
+SettingsView
+WallpapersPane
+CountdownPane
+DecorationsPane
+TreePane
+SnowmenPane
+LightsPane
+ScreenSaverPane
+PilingPane
+SnowfallPane
+SnowSwitch
+GeneralSection
+WhereItFalls
+ChoiceRow
+SliderRow
+ColorSwatches
+BulbTile
+ChoiceTile
+HexColorPicker
+EditingGuide
+PieceTray
+DecorationRow
+Note
+Scaffold
+Choice
+Chips
+Swatch
+FlowLayout
+PieceTile
+Box
+Silhouette
+OverlayWindow
+SnowPanel
+LayerView
+SnowPanelView
+SnowController
+Pace
+Phase
+Flake
+Drop
+FallingIcicle
+FallingChunk
+SnowScene
+Drift
+SnowWorld
+SnowmanHat
+SnowmanLook
+SnowmanArms
+SnowmanNose
+WindowView
+Wallpapers
+Paper
+WindowTracker
+WindowMotion
+TrackedWindow
+SurfaceKind
+SgXw
+Say
+SgG
+ShySiG
+SaySiG
+SdSg
+SiSg
+SayyycG
+SaySDySSypGG
+SaySSG
+ShySSG
+Spy
+Sbyc
+Gyc
+SaySDySSypGGyc
+SgGG
+SgtGG
+SgGSg
+SgGGtGGG
+SgGGAUy
+GtGGtGG
+GtGG
+GtG
+GtGGtG
+GtGGt
+SgGGATy
+SgGGASy
+SgGGAQy
+SgGGANy
+SgGGARy
+SgGGAMy
+SgGGALy
+SgGGACy
+SgGGAJy
+SgGGtGG
+SgGGt
+GtGGAIG
+SnySiG
+SaySay
+SdtcSg
+SayypG
+SaySdG
+RawValue
+AllCases
+Body
+AnimatableData
+Cache
+To the left
+Shifting
+To the right
+5 minutes later
+An hour later
+Never
+1 min
+2 min
+5 min
+10 min
+15 min
+30 min
+1 hour
+Off
+Village Night
+Forest Cabin
+Skating Pond
+Mountain Dusk
+By the Window
+Lamplit Street
+Stone Library
+City Loft
+Sleeper Train
+Snow Garden
+Paris Apartment
+Red Square
+New York
+Zermatt
+Prague
+bec City
+Edinburgh
+London
+Vienna
+Copenhagen
+Kyoto
+Banff
+Lapland
+Neuschwanstein
+Venice
+Budapest
+Strasbourg
+Stockholm
+Hkh
+ yh
+Kyh
+RhV
+RxZ
+TsV
+JmJ
+Am 
+Lyi
+qA 
+RhB
+RgM
+RkG
+RlB
+Rhg
+ Aa
+ThCC
+Ths
+2Cm 
+= Aa
+Rhf
+TsB
+Rep
+Rzn
+*Mm 9k
+NbP
+Rkg
+Nue
+Nfe
+Nfc
+Ncd
+Ukh
+CmD
+ ks
+ kh
+AmyR
+4 ks
+N ks
+T ks
+RhM
+NkL
+RaJ
+Bmb
+NvA
+Bhc
+NcB
+Bii
+Rij(8 
+JyC
+ThB
+RhJ
+Rq 
+TtJ
+Amx
+Amw
+Amr
+AmT
+ ih
+Rijy
+ThZ
+Fmf
+Fmb
+ AV9
+ EV9
+ IV9
+ MV9
+ QV9
+Nx 
+RhN
+Rhb
+Aii
+Bxj
+ UA
+ IF
+RuR
+RiB
+FmH
+Bxc
+BlG
+Rhs
+Rrw
+Nhv
+Ncv
+Byhb
+Byi
+Ras
+Rnr
+Rtk
+RrW
+RrR
+RhC
+RiH
+RsB
+Dyhb
+Nyh
+Jyh
+Rhr
+4hj48 
+Hyh
+RiJ
+Cmd
+DmB
+Bxn
+Bxl
+TH `
+Rhn
+Thv
+NH `
+Hm  e
+Wih
+Rcv
+Rrv
+Nrt
+Nct
+Rot
+Nkx
+Rxq
+Nvm
+Tok
+BmF
+BmB
+RcY
+NtQ
+CmkQ
+Tuzy
+NhP
+RtN
+RgK
+RoE
+RvC
+Kyv
+Kya
+Tz 
+Rxd
+Yyh
+Kki
+Xyh
+Vyh
+R kk
+Rhl
+Rbl
+:Uh?Hdl &
++3 @C9N&IY
+YvA
